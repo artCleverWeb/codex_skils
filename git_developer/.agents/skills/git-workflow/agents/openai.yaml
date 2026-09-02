@@ -1,0 +1,4 @@
+interface:
+  display_name: "Git Workflow"
+  short_description: "Безопасная работа с Git, GitHub и GitLab"
+  default_prompt: "Используй $git-workflow, чтобы безопасно выполнить запрошенный Git-процесс в этом репозитории."
