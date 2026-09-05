@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bitrix24 Local Apps"
+  short_description: "Локальные приложения Bitrix24 на PHP 8.2+"
+  default_prompt: "Используй $bitrix24-local-apps для создания локального приложения Bitrix24 на PHP 8.2+."
