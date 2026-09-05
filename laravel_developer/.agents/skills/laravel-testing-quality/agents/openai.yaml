@@ -1,0 +1,4 @@
+interface:
+  display_name: "Laravel Testing and Quality"
+  short_description: "Тесты, Pint, Larastan и качество кода"
+  default_prompt: "Используй $laravel-testing-quality для тестирования и проверки качества Laravel-проекта."

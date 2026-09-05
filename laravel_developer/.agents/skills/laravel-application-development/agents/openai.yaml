@@ -1,0 +1,4 @@
+interface:
+  display_name: "Laravel Application Development"
+  short_description: "Архитектура приложений Laravel 12–13"
+  default_prompt: "Используй $laravel-application-development для реализации функциональности приложения Laravel."

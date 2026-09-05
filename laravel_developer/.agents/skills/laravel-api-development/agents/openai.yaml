@@ -1,0 +1,4 @@
+interface:
+  display_name: "Laravel API Development"
+  short_description: "Надёжные HTTP API на Laravel 12–13"
+  default_prompt: "Используй $laravel-api-development для создания или изменения API Laravel."

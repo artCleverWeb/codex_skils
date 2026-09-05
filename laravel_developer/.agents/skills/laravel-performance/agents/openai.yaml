@@ -1,0 +1,4 @@
+interface:
+  display_name: "Laravel Performance"
+  short_description: "Профилирование, кеш и оптимизация Laravel"
+  default_prompt: "Используй $laravel-performance для измеримой оптимизации Laravel-приложения."
