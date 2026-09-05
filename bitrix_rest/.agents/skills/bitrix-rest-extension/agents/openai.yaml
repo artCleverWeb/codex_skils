@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bitrix REST Extension"
+  short_description: "Собственные REST-методы коробочного Bitrix"
+  default_prompt: "Используй $bitrix-rest-extension для регистрации безопасных REST-методов в коробочном Bitrix."

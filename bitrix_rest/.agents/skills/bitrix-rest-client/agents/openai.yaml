@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bitrix REST Client"
+  short_description: "Интеграции с REST API Bitrix и Bitrix24"
+  default_prompt: "Используй $bitrix-rest-client для реализации надёжной интеграции с REST API Bitrix24."
