@@ -1,0 +1,4 @@
+interface:
+  display_name: "Laravel Queues and Events"
+  short_description: "Очереди, события, scheduler и realtime"
+  default_prompt: "Используй $laravel-queues-events для фоновой и событийной обработки Laravel."

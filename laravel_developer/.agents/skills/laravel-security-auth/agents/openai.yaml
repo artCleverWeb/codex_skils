@@ -1,0 +1,4 @@
+interface:
+  display_name: "Laravel Security and Auth"
+  short_description: "Аутентификация, права и безопасность"
+  default_prompt: "Используй $laravel-security-auth для безопасной реализации авторизации и контроля доступа Laravel."

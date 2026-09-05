@@ -1,0 +1,4 @@
+interface:
+  display_name: "Laravel Inertia Frontend"
+  short_description: "Inertia с Vue или React в Laravel"
+  default_prompt: "Используй $laravel-inertia-frontend для разработки интерфейса Inertia с Vue или React."

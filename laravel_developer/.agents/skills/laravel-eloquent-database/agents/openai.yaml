@@ -1,0 +1,4 @@
+interface:
+  display_name: "Laravel Eloquent and Database"
+  short_description: "Eloquent, SQL, транзакции и миграции"
+  default_prompt: "Используй $laravel-eloquent-database для работы с моделями, запросами и миграциями Laravel."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Laravel Blade and Livewire"
+  short_description: "Blade, Livewire и серверный интерфейс"
+  default_prompt: "Используй $laravel-blade-livewire для разработки интерфейса на Blade и Livewire."
